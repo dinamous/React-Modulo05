@@ -18,6 +18,11 @@ const Container = styled.div`
             margin-right: 10px;
         }
     }
+
+    p {
+        color: #ff6b6b;
+        margin-top: 5px;
+    }
 `;
 
 export default Container;
